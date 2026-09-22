@@ -279,7 +279,7 @@ export default function AboutPage() {
                     <div key={idx} className="bg-white rounded-3xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-1 flex flex-col group">
                         <div className="relative w-full aspect-[4/3] overflow-hidden">
                             <Image
-                                src={'image' in facility ? facility.image! : `https://picsum.photos/seed/${facility.seed}/600/450`}
+                                src={facility.image}
                                 alt={facility.title}
                                 fill
                                 className="object-cover transition-transform duration-700 group-hover:scale-105"
