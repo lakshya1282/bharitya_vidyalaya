@@ -1,0 +1,70 @@
+Home Page
+
+Hero
+
+Headline: Bharti Vidyalaya, Kumhari
+Sub-headline: Building Knowledge. Shaping Futures.
+Body: the two intro paragraphs ("Since 1984, Bharti Vidyalaya has been committed to..." + "With over 42 years of educational experience...")
+Primary CTA button: Enquire for Admission (links to Contact page or opens the enquiry form)
+
+Trust/Stats Band (right below hero — builds credibility fast)
+
+Use the 6 stats block: 20,000+ Students educated, 42+ Years, 680+ Students today, 32 Teachers, 87,000 sq. ft. Campus, 70,000 sq. ft. Playground
+Heading over it: "A School That Has Grown With Its Students"
+
+Why Choose Us (5 cards)
+
+"Why Bharti Vidyalaya?" — the 5 value props as icon cards: Experienced Educators, Holistic Development, A Strong Legacy, Accessible Education, A Supportive Environment
+
+Admissions CTA Banner (bottom o,f Home, before footer)
+
+Heading: Admissions Open — Give Your Child a Strong Start
+Line: Admissions are open for Classes Nursery to XII.
+Tags: English Medium | CBSE Pattern | Commerce & Arts
+Button: Enquire for Admission
+Skip repeating the full address/phone here — that lives on Contact and in the footer, so this banner stays a clean CTA rather than a duplicate contact block.
+
+Home stays a highlight reel. Don't drop the Academics/Facilities bullet lists here — they'd turn a premium landing page into a wall of text. Those go deep on About.
+
+About Page
+
+Intro
+
+Heading: About the School / 42 Years of Learning & Growing
+The three paragraphs: Established in 1984..., Over the years, 20,000+ students..., Today, the school has around 680 students...
+
+Our Journey — full timeline as-is (1984 → 1997–98 → 1998–99 → 2007–08 → 2008–09 → 2011 → 2014–15 → Today). This is a natural scroll-triggered timeline component.
+
+Academics
+
+Heading: Strong Foundations. Stronger Futures.
+Intro line + the full 8-point bullet list (32 teachers, English medium, CBSE-pattern curriculum, etc.)
+
+Campus & Facilities
+
+Heading: A Space to Learn, Play & Grow
+Intro line (87,000 sq. ft. campus) + the 9-point facilities list
+
+Beyond the Classroom
+
+Heading: Learning Happens Everywhere
+Both paragraphs
+Tag line as a styled strip: Sports • Arts • Activities • Celebrations • Life Skills — this doubles nicely as a visual segue into your Gallery page, so consider linking it there ("See it in action →").
+
+About is your one deep-dive page — history, academics, facilities, culture, in that order, since that's roughly how a parent evaluates a school.
+
+Gallery Page
+
+No text content was provided for this one — expected, since it's image-led. One placement decision worth making now: reuse Sports • Arts • Activities • Celebrations • Life Skills as filter tabs/category labels for the image grid, since it's the only content that maps to gallery categories. A short one-line heading like "A Glimpse Into Campus Life" would frame it, but you'll need actual photos from the client before this page is buildable.
+
+Contact Page
+Heading: Give Your Child a Strong Start (reuse from Admissions block)
+Address: 📍 G.E. Road, Kumhari, Dist. Durg, Chhattisgarh
+Phone: 📞 93297-71421 | 73899-02221
+Tags: English Medium | CBSE Pattern | Commerce & Arts
+Enquiry form (you'll build this — name/phone/class-applying-for/message is the standard set for admission enquiries)
+Optional: embed a Google Map for G.E. Road, Kumhari
+
+Site-wide footer: repeat the address and phone across all four pages — that's standard practice and covers you if someone lands on Home or About without clicking through to Contact.
+
+One gap to flag: you have zero copy written specifically for Contact or Gallery beyond the address/phone — that's normal for those page types, but confirm with the client whether they want any framing text there or if you're free to keep it minimal.
